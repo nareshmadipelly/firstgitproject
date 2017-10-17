@@ -7,6 +7,8 @@ public class demo_git {
 		
 		System.out.println("Helloo, Welcome to git..");
 
+		//developer 2 is adding new print
+		System.out.println("this is added my new developer");
 	}
 
 }
